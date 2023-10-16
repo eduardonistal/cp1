@@ -7,6 +7,6 @@ npm react-router-dom
 
 \nRicardo A.S Queiroz RM 94241
 
-#Eduardo de Oliveira Nistal RM 94524
+Eduardo de Oliveira Nistal RM 94524
 
-#Jhonatan Ferreira Curci RM 94188
+Jhonatan Ferreira Curci RM 94188
